@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<testsuites>
+  <testsuite name="PhantomJS 2.1.1 (Linux 0.0.0)" package="" timestamp="2018-05-28T15:17:06" id="0" hostname="Ali" tests="20" errors="0" failures="0" time="0.014">
+    <properties>
+      <property name="browser.fullName" value="Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
+    </properties>
+    <testcase name="tree node 877234003 should have correct data" time="0.003" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234004 should have correct parent" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="should contain all nodes from dataset" time="0.002" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234003 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234004 should have correct data" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234010 should have correct data" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234010 should have correct parent" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234002 should have correct data" time="0.002" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 877234002 should have correct parent" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from simple-data_json dataSet"/>
+    <testcase name="tree node 7832454553 should have correct data" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454555 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454552 should have correct data" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454553 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="should contain all nodes from dataset" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454552 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454554 should have correct data" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454551 should have correct data" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454551 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454555 should have correct data" time="0.001" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <testcase name="tree node 7832454554 should have correct parent" time="0" classname="PhantomJS 2.1.1 (Linux 0.0.0).fileTree created from data-for-bug_json dataSet"/>
+    <system-out><![CDATA[
+]]></system-out>
+    <system-err/>
+  </testsuite>
+</testsuites>
